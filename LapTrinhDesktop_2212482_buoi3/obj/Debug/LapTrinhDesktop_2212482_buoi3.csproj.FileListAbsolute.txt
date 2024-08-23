@@ -1,0 +1,10 @@
+Z:\LapTrinhDesktop_2212482_buoi3\bin\Debug\LapTrinhDesktop_2212482_buoi3.exe.config
+Z:\LapTrinhDesktop_2212482_buoi3\bin\Debug\LapTrinhDesktop_2212482_buoi3.exe
+Z:\LapTrinhDesktop_2212482_buoi3\bin\Debug\LapTrinhDesktop_2212482_buoi3.pdb
+Z:\LapTrinhDesktop_2212482_buoi3\obj\Debug\LapTrinhDesktop_2212482_buoi3.csproj.AssemblyReference.cache
+Z:\LapTrinhDesktop_2212482_buoi3\obj\Debug\LapTrinhDesktop_2212482_buoi3.Properties.Resources.resources
+Z:\LapTrinhDesktop_2212482_buoi3\obj\Debug\LapTrinhDesktop_2212482_buoi3.csproj.GenerateResource.cache
+Z:\LapTrinhDesktop_2212482_buoi3\obj\Debug\LapTrinhDesktop_2212482_buoi3.csproj.CoreCompileInputs.cache
+Z:\LapTrinhDesktop_2212482_buoi3\obj\Debug\LapTrinhDesktop_2212482_buoi3.exe
+Z:\LapTrinhDesktop_2212482_buoi3\obj\Debug\LapTrinhDesktop_2212482_buoi3.pdb
+Z:\LapTrinhDesktop_2212482_buoi3\obj\Debug\LapTrinhDesktop_2212482_buoi3.bai1.resources
